@@ -6,7 +6,7 @@ import java.io.StringWriter;
 public class cryptoTest {
     private int variabile = 0;
     public static void main(String[] args) {
-        System.out.println("Luigi Vezzoso");
+
 
 
         System.out.println(RunLinuxGrepCommand("ping 8.8.8.8 -c 3"));
