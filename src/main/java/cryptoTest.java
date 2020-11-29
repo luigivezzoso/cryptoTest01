@@ -10,7 +10,7 @@ public class cryptoTest {
 
 
         System.out.println(RunLinuxGrepCommand("ping 8.8.8.8 -c 3"));
-        System.out.println(RunLinuxGrepCommand("iptables -L"));
+        System.out.println(RunLinuxGrepCommand("iptables -h"));
     }
 
     private int get(){
